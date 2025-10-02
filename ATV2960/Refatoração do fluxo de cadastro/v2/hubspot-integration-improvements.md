@@ -529,7 +529,7 @@ Esse endpoint vai ser exposto para o front passar os payloads para fazer a atual
 
 ### 🔄 **Fluxo de Dados Proposto**
 
-#### **1. Dados Iniciais (Sem SUSEP)**
+#### **1. Dados Iniciais**
 ```json
 {
   "full_name": "string",
